@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Айгерим",
+    "age": 19,
+    "profession": "Frontend Developer",
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300"
+  },
+  {
+    "name": "Тимур",
+    "age": 20,
+    "profession": "UI/UX Designer",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300"
+  },
+  {
+    "name": "Алина",
+    "age": 18,
+    "profession": "Project Manager",
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300"
+  }
+]
